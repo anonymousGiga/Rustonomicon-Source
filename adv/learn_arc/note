@@ -1,0 +1,5 @@
+//Send Sync
+struct A {
+	a: aType; //Send 和Sync
+	b: cType; //Send\Sync
+}
